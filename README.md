@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @reborn2kill
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
